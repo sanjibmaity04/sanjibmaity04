@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-Aspiring **Data Scientist** passionate about turning raw data into decisions that
+Aspiring **Full Stack Developer ** passionate about turning raw data into decisions that
 drive real impact. I work across the full data stack — from cleaning messy datasets
 to building ML models and BI dashboards that non-technical stakeholders can
 actually use.
