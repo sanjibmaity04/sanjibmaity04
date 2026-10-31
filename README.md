@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjib Maity 👋
 
-🎓 B.Sc. Data Science & Applications @ **IIT Madras**
+🎓 B.Tech Graduate from NIT DURGAPUR and Online B.Sc. Data Science & Applications @ **IIT Madras**
 📍 Durgapur, West Bengal, India
 
 ---
